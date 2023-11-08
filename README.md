@@ -6,7 +6,7 @@
 Open Google Colab: https://colab.research.google.com/ 
 Click "File" > "Open Notebook." 
 Select the "GitHub" tab. 
-Enter the repository url : https://github.com/yourusername/your-repo.git  
+Enter the repository url :https://github.com/rvindhu/CREDIT-CARD-FRAUD-DETECTION1
 Click "Search." 
 Find and select the notebook you want to run. 
  
